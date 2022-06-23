@@ -94,7 +94,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="mt-10 shadow-2xl bg-gray-50">
+      <div className="mt-10 overflow-hidden shadow-2xl bg-gray-50">
         <div data-aos="fade-left">
           <div className="grid gap-5 md:grid-cols-2 bg-white-800 md:ml-10 ">
             <div className="relative">
