@@ -5,7 +5,7 @@ import Fade from "react-reveal/Fade";
 function About() {
   return (
     <>
-      <div>
+      <div className="overflow-hidden ">
         <Fade right>
           <h1 className="mt-5 text-2xl font-bold text-center">About</h1>
           <p className="container text-center sm:ml-20 md:block md:ml-12 sm:text-left ">
