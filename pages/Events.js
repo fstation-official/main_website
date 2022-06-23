@@ -53,26 +53,6 @@ function Courses({ events }) {
 
             </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         ))}
 
 
