@@ -1,9 +1,10 @@
 import React from "react";
 import { getPosts } from "../Services/courses";
+
 function Courses({ courses }) {
   return (
     <>
-      <div style={{display:'flex', justifyContent:'space-around'}}>
+      <div className="course-con">
         {courses.map((course) => (
           <div className="container px-4 mx-auto my-12 md:px-12">
             <div className="flex flex-wrap -mx-1 lg:-mx-4">
