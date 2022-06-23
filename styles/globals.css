@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital@1&display=swap');
+
+.hide-scroll-bar {
+    -ms-overflow-style: none;
+            scrollbar-width: none;
+    }
+            .hide-scroll-bar::-webkit-scrollbar {
+              display: none;
+    }
+         
+    
